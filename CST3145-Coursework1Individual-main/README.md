@@ -1,11 +1,11 @@
 # CST3145-Coursework 1 Individual
-### Umair Dada (M00740467)
+### Suffyan09 (M00740467)
 ## CST3145
 ### Repository
-- https://github.com/umairdadaa/CST3145-Coursework1Individual
+- https://github.com/Suffyan09/CST3145-Coursework1Individual
 
 ### GitHUB Pages Deployment
-- https://umairdadaa.github.io/CST3145-Coursework1Individual/
+- https://Suffyan09.github.io/CST3145-Coursework1Individual/
 
 
 
