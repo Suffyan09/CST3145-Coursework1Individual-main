@@ -1,2 +1,2 @@
-# CST3145-Coursework1Individual-main
-Ecommerce
+# CST3145-Coursework1Individual
+Online Course System
