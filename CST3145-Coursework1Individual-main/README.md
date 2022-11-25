@@ -1,5 +1,5 @@
 # CST3145-Coursework 1 Individual
-### Suffyan09 (M00902376)
+### Muhammad Suffyan (M00902376)
 ## CST3145
 ### Repository
 - https://github.com/Suffyan09/CST3145-Coursework1Individual
