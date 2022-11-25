@@ -1,6 +1,6 @@
 # CST3145-Coursework 1 Individual
 ### Muhammad Suffyan (M00902376)
-## CST3145
+## Web and App 
 ### Repository
 - https://github.com/Suffyan09/CST3145-Coursework1Individual
 
